@@ -1,6 +1,7 @@
 # TicTacToe
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.5. I was also making it while going through this tutorial: https://youtu.be/G0bBLvWXBvc 
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.5. 
+I was also making it while going through this tutorial: https://youtu.be/G0bBLvWXBvc 
 
 ## Latest Release 
 
