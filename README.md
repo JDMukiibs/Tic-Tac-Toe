@@ -1,27 +1,12 @@
 # TicTacToe
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.5.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.5. I was also making it while going through this tutorial: https://youtu.be/G0bBLvWXBvc 
 
-## Development server
+## Latest Release 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+The web app that is deployed and running can be found here: https://tic-tac-toe-in-angular.web.app/ 
+Check it out and give me any feedback. 
 
-## Code scaffolding
+## Looking Forward
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+A friend suggested maybe the header could display different motivational quotes whenever the site is visited so I'll be working on trying to implement a way for that to work.
