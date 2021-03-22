@@ -6,7 +6,7 @@ I was also making it while going through this tutorial: https://youtu.be/G0bBLvW
 
 ## Latest Release 
 
-The web app that is deployed and running can be found here: https://tic-tac-toe-in-angular.web.app/ 
+The web app that is deployed using Firebase can be found here: https://tic-tac-toe-in-angular.web.app/ 
 Check it out and give me any feedback. 
 
 ## Looking Forward
