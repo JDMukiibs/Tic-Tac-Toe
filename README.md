@@ -11,4 +11,5 @@ Check it out and give me any feedback.
 
 ## Looking Forward
 
-A friend suggested maybe the header could display different motivational quotes whenever the site is visited so I'll be working on trying to implement a way for that to work.
+1. Have option to choose between playing the 'computer' or with a friend seated next to you.
+2. Have random motivational quotes float in and out of the header instead of what is currently there!
